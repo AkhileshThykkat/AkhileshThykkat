@@ -80,7 +80,7 @@
 
 
 ## Github Stats  
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; flex-direction:row; align-items: flex-start;">
 
   <div style="flex: 1; margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=akhileshthykkat&show_icons=true&count_private=true&hide_border=true" align="center" />
