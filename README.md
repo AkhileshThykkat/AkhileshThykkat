@@ -80,13 +80,17 @@
 
 
 ## Github Stats  
-<div display ="flex" >
- 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=akhileshthykkat&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshthykkat&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
-<div margin-top="20px" align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshthykkat&layout=donut-vertical" align="center" /></div>
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+
+  <div style="flex: 1; margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=akhileshthykkat&show_icons=true&count_private=true&hide_border=true" align="center" />
+  </div>
+
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshthykkat&layout=compact" align="center" />
+  </div>
+
 </div>
-<br/>  
 
 
 
