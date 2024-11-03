@@ -34,8 +34,8 @@ I'm a backend engineer with a passion for building scalable and efficient system
 
 <!-- ### 📄 Resume
 
-[Download My Resume](https://your-resume-link.com) -->
+[Download My Resume](https://your-resume-link.com) 
 
----
+--->
 
 I'm always open to discussions on backend architecture, scalable systems, and backend development best practices. Looking forward to collaborating and learning with you!
