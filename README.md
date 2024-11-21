@@ -30,12 +30,11 @@ I'm a backend engineer with a passion for building scalable and efficient system
 - **Email**: [akhileshthykkat843@gmail.com](mailto:akhileshthykkat843@gmail.com)
 - **LinkedIn**: [Akhilesh M T](https://www.linkedin.com/in/akhilesh-m-t)
 
+### 📄 Resume
+
+[Download My Resume](https://drive.google.com/file/d/1vp60MrWp8xUIpP3FQGs5N0JZsX7uYhDz/view?usp=sharing)
+
+
 ---
-
-<!-- ### 📄 Resume
-
-[Download My Resume](https://your-resume-link.com) 
-
---->
 
 I'm always open to discussions on backend architecture, scalable systems, and backend development best practices. Looking forward to collaborating and learning with you!
